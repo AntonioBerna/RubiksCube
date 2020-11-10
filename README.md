@@ -3,6 +3,10 @@
 Sticker representation
 ----------------------
 
+<p align="center">
+ <img src="Cube3x3.png">
+</p>
+
 Each face is represented by a length [5, 3] array:
 
   [v1, v2, v3, v4, v1]
