@@ -4,7 +4,7 @@
  <img src="Cube3x3.png" width="400" height="400">
 </p>
 
-## Sticker representation
+## Sticker Representation
 
 <ul>
  <li> Each face is represented by a length [5, 3] array: [v1, v2, v3, v4, v1] </li>
