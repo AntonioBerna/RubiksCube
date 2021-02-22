@@ -22,3 +22,8 @@
  <li> The canonical order is found by doing ind = np.lexsort(centroids.T) </li>
  <li> After any rotation, this can be used to quickly restore the cube to canonical position. </li>
 </ul>
+
+
+# Per maggiori informazioni
+
+Created By Antonio Bernardini Copyright© 2021
